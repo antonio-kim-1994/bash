@@ -128,3 +128,7 @@
         <td>2. 로그의 정기적 검토 및 보고</td>
     </tr>
 </table>
+
+### 참고 링크
+- [네이버 블로그 - 타쿠대디](https://blog.naver.com/takudaddy/222220602092)
+- [![Static Badge](https://img.shields.io/badge/newbieh4cker/centos_vuln_check_script-14213d?style=flat&logo=github)](https://github.com/newbieh4cker/centos_vuln_check_script/blob/master/linux_vuln_check_script.sh)

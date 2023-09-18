@@ -15,11 +15,11 @@ export LANG=ko_KR.UTF-8
 USERNAME="test"
 PASSWD="test1234"
 
-# 0-3. aijinet 사용자 추가 및 비밀번호 설정
+# 0-3. 사용자 추가 및 비밀번호 설정
 useradd "${USERNAME}"
-echo "${PASSWD}" | passwd --stdin aijinet
+echo "${PASSWD}" | passwd --stdin "${USERNAME}"
 
-# 0-4. aijinet 권한 추가 (/etc/sudoers)
+# 0-4. 권한 추가 (/etc/sudoers)
 # sed -i '/<탐색구간>/a <치환구간>' <파일경로>
 sed -i "/^root\tALL/a ${USERNAME}\tALL=(ALL)\tALL" /etc/sudoers
 
