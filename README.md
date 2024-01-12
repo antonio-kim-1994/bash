@@ -1,4 +1,4 @@
-# Slack CI/CD 중계서버
+# Bash Scripts
 ![Static Badge](https://img.shields.io/badge/Author-Antonio-caf0f8?labelColor=2b2d42)
 ![Static Badge](https://img.shields.io/badge/Golang_1.20.5-grey?style=flat&logo=linux&labelColor=2b2d42)
 
