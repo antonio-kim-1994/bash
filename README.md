@@ -1,6 +1,6 @@
 # Bash Scripts
 ![Static Badge](https://img.shields.io/badge/Author-Antonio-caf0f8?labelColor=2b2d42)
-![Static Badge](https://img.shields.io/badge/Golang_1.20.5-grey?style=flat&logo=linux&labelColor=2b2d42)
+![Static Badge](https://img.shields.io/badge/bash-grey?style=flat&logo=linux&labelColor=2b2d42)
 
 ## 개요
 > Bash로 작성한 스크립트를 모아둔 Repository입니다.
